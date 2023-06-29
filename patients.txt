@@ -1,0 +1,87 @@
+
+000001	DummyRegistration	VC2	19	123456789	dummyemail@email.com	CZ	D0	2021-08-24
+
+000002	Darrshan	VC1	19	1823812323123	dummyemail@email.com	AF	D0	2021-08-24
+
+000003	Howard	VC1	19	123456789	dummyemail@email.com	EC	D0	2021-08-24
+
+000004	Cyrus	VC2	19	123456789	dummyemail@email.com	DM	D0	2021-08-24
+
+000005	Darrshan	VC1	19	12831823	colindar1	AF	D0	2021-08-27
+
+000006	darrshan	VC1	19	19	19	AF	D0	2021-08-27
+
+000007	Darrshan	VC1	19	12838123	colindar1	AF	D0	2021-08-27
+
+000008	Darrshan	VC1	19	118238123	colindar1	AF	D0	2021-08-27
+
+000009	Ming	VC2	19	112737123	colindar1	CZ	D0	2021-08-29
+
+000010	Rick	VC1	58	181283123	coalsdkfiasdf	AF	D0	2021-08-29
+
+000011	Ming	VC2	37	18283123	colindar1	BV	D0	2021-08-29
+
+000012	Darrshan	VC2	19	1121671638	colindar1@gmail.com	DM	D0	2021-08-29
+
+000013	SioJun	VC1	19	1281283	siojun	EC	D0	2021-08-30
+
+000014	Ezeikel 	VC2	19	112831238	colindar1@gmail.com	BV	D0	2021-08-30
+
+000015	ZhenBo	VC2	19	112712371	zhenbo@gmail.com	BV	D0	2021-08-30
+
+000016	Yeet	VC2	58	1128312312	colindar1@gmail.com	BV	D0	2021-08-30
+
+000017	Richard	VC2	15	112161723	richard	CZ	D0	2021-08-30
+
+000018	Smith	VC2	56	112737123	yeet	BV	D0	2021-08-30
+
+000019	Shawn	VC1	15	112317237	colindar1	CZ	D0	2021-08-31
+
+000020	Yeet	VC2	57	181283123	colindar1	AF	D0	2021-08-31
+
+000021	Darrshan	VC1	19	1171237123	colindar1@gmail.com	AF	D0	2021-08-31
+
+000022	Adnan	VC1	19	1237123717	adnanhafi@gmail.com	AF	D0	2021-09-02
+
+000023	Howard	VC2	19	112781283	colindar1	AF	D0	2021-09-02
+
+000024	Darrshan	VC2	19	60123456789	colindar1@gmail.com	EC	D0	2021-09-03
+
+000024	Alex	VC2	19	60123456789	programuser@gmail.com	AF	D0	2021-09-03
+
+000025	Alex	VC1	19	60123456789	colindar1@gmial.com	AF	D0	2021-09-03
+
+000026	Darrshan	VC2	19	60123456789	colindar1@gmail.com	AF	D0	2021-09-03
+
+000027	Darrshan	VC1	19	60123456789	colindar1@gmail.com	AF	D0	2021-09-03
+
+000028	AlexSmith	VC2	19	60123456789	colindar1@gmail.com	BV	D0	2021-09-03
+
+000029	Darrshan	VC2	19	60123456789	colindar1@gmail.com	AF	D0	2021-09-03
+
+000030	Howard	VC2	19	60123456789	howardchau@gmail.com	EC	D0	2021-09-03
+
+000031	Darrshan	VC2	19	60123456789	colindar1@gmail.com	AF	D0	2021-09-03
+
+000032	AlexSmith	VC2	19	60123456789	alex@gmail.com	AF	D0	2021-09-03
+
+000033	YeetSmith	VC1	19	60123456789	colindar1@gmail.com	BV	D0	2021-09-04
+
+000034	YeetSmith	VC2	19	60123456789	colindar1@gmail.com	DM	D0	2021-09-04
+
+000035	Evan	VC2	19	60123456789	programuser@gmail.com	AF	D0	2021-09-04
+
+000036	MingSheng	VC2	19	60193504365	colindar1@gmail.com	AF	D0	2021-09-04
+000037	Darrshan	VC2	19	60193505365	colindar1@gmail.com	AF	D0	2021-09-08
+
+000038	AlexSmith	VC2	19	60123456789	colindar1@gmail.com	AF	D0	2021-09-14
+
+000039	HowardChau	VC2	58	60123456789	howardchau@gmail.com	EC	D0	2021-09-15
+
+000040	ChowZhenBo	VC2	19	60123456789	zhen@gmail.com	BV	D0	2021-09-15
+
+000041	Irfan	VC1	19	60123456789	colindar1@gmail.com	BV	D0	2021-09-15
+
+000042	Nadzim	VC2	20	60123456789	nadzimakmel@gmail.com	AF	D0	2021-09-16
+
+000043	HowardChau	VC2	19	60123456789	chau@gmail.com	AF	D0	2021-09-16
